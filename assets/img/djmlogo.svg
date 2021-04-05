@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="838.97851"
-     inkscape:cy="788.12816"
+     inkscape:cx="665.91526"
+     inkscape:cy="479.66945"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g4640"
      showgrid="false"
      units="px"
      width="1024px"
@@ -55,6 +55,26 @@
        orientation="0,1"
        inkscape:locked="false"
        id="guide4606" />
+    <sodipodi:guide
+       position="-20.410714,213.17857"
+       orientation="0,1"
+       inkscape:locked="false"
+       id="guide4646" />
+    <sodipodi:guide
+       position="-16.036171,163.03441"
+       orientation="1,0"
+       inkscape:locked="false"
+       id="guide4648" />
+    <sodipodi:guide
+       position="203.65938,133.10022"
+       orientation="0,1"
+       id="guide4652"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="132.83295,55.057522"
+       orientation="1,0"
+       id="guide4654"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -72,10 +92,11 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(0,258.23333)">
+     transform="translate(0,258.23333)"
+     style="display:none">
     <ellipse
        id="path86"
-       style="stroke-width:0.27776578;opacity:0.503"
+       style="opacity:0.503;stroke-width:0.27776578"
        ry="78.997025"
        rx="80.527229"
        cy="-121.10355"
@@ -84,11 +105,11 @@
        id="path82"
        cx="133.4256"
        cy="-120.91458"
-       style="stroke-width:0.26782727;opacity:0.475"
+       style="opacity:0.475;stroke-width:0.26782727"
        rx="70.303566"
        ry="70.114578" />
     <rect
-       style="opacity:0.475;fill:#000000;stroke-width:0.26458332;fill-opacity:1"
+       style="opacity:0.475;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
        id="rect4610"
        width="10.156244"
        height="215.95142"
@@ -96,7 +117,21 @@
        y="-258.30893" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 3" />
+     transform="translate(0,258.23333)"
+     inkscape:label="Layer 2 copy"
+     id="g4640"
+     inkscape:groupmode="layer">
+    <path
+       style="opacity:0.494;stroke-width:1.0498234;fill:#000000;fill-opacity:1"
+       d="M 769.73633 -0.28515625 L 769.73633 373.6543 A 304.35488 298.57143 0 0 0 503.57227 219.71484 A 304.35488 298.57143 0 0 0 199.2168 518.28516 A 304.35488 298.57143 0 0 0 503.57227 816.85742 A 304.35488 298.57143 0 0 0 769.73633 662.40039 L 769.73633 815.9082 L 808.12109 815.9082 L 808.12109 -0.28515625 L 769.73633 -0.28515625 z M 504.28516 254 A 265.71427 264.99998 0 0 1 769.73633 511.57812 L 769.73633 524.25195 A 265.71427 264.99998 0 0 1 504.28516 784 A 265.71427 264.99998 0 0 1 238.57227 519 A 265.71427 264.99998 0 0 1 504.28516 254 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,-258.23333)"
+       id="ellipse4634" />
+    <ellipse
+       id="path82-6"
+       cx="134.00977"
+       cy="-121.05173"
+       style="display:inline;opacity:0.475;stroke-width:0.42275476"
+       rx="110.97141"
+       ry="110.67308" />
+  </g>
 </svg>
