@@ -8,7 +8,8 @@ Polytechnique Yaounde CS, Full stack generalist; launched a successful Music sha
 * Text Visual Question Answering on Text-VQA with transformers
 * Object segmentation with detectron
 
-[more details](./project-details.html).
+[more details](./project-details.html)
+
 ### Education
 
 * [AIMS AMMI](https://aimsammi.org), Master in Mathematics specialized im Machine Intelligence
