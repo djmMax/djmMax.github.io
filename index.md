@@ -7,6 +7,9 @@ Polytechnique Yaounde CS, Full stack generalist; launched a successful Music sha
 
 * Text Visual Question Answering on Text-VQA with transformers
 * Object segmentation with detectron
+* DNA Sequence bonding prediction with Kernel [repo](https://github.com/djmMax/dna-bonding-prediction)
+* Audio classification with CNN [repo](https://github.com/djmMax/audio-classification)
+* Sample from a heat map experiment [repo](https://github.com/djmMax/sample-a-heatmap)
 
 [more details](./project-details.html)
 
