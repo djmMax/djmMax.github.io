@@ -10,10 +10,11 @@ Polytechnique Yaounde CS, Full stack generalist; launched a successful Music sha
 * DNA Sequence bonding prediction with Kernel [repo](https://github.com/djmMax/dna-bonding-prediction)
 * Audio classification with CNN [repo](https://github.com/djmMax/audio-classification)
 * Sample from a heat map experiment [repo](https://github.com/djmMax/sample-a-heatmap)
+* Satellite Image Classification
 
-[more details](./project-details.html)
+<!--- [more details](./project-details.html) -->
 
 ### Education
 
-* [AIMS AMMI](https://aimsammi.org), Master in Mathematics specialized im Machine Intelligence
+* [AIMS AMMI](https://aimsammi.org), Master in Mathematics specialized in Machine Intelligence
 * [National Advanced School of Engineering of Yaounde](https://polytechnique.cm), Master of Engineering in Computer Science
