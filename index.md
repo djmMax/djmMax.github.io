@@ -20,4 +20,4 @@ Focus on AI/ML/Research working on LLM, Code Generation, Symbolic reasoning with
 * [AIMS AMMI](https://aimsammi.org), Master in Machine Intelligence
 * [National Advanced School of Engineering of Yaounde](https://polytechnique.cm), Master of Engineering in Computer Science
 
-[Full Profile](./joseph-profile-turing.html)
+For more details my [full profile](./joseph-profile-turing.html)
