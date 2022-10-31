@@ -1,7 +1,8 @@
 ## About me
 
-Polytechnique Yaounde CS, Full stack generalist; launched a successful Music sharing platform. If your looking for a curious and ingenious mind I am the one.
 
+Passionate of Tech since nursery, believing the future will more automate via ML.
+Focus on AI/ML/Research working on LLM, Code Generation, Symbolic reasoning with tools like PyTorch, JAX, Cloud and a lot of brain compute resource :-)
 
 ### Projects
 
@@ -16,5 +17,7 @@ Polytechnique Yaounde CS, Full stack generalist; launched a successful Music sha
 
 ### Education
 
-* [AIMS AMMI](https://aimsammi.org), Master in Mathematics specialized in Machine Intelligence
+* [AIMS AMMI](https://aimsammi.org), Master in Machine Intelligence
 * [National Advanced School of Engineering of Yaounde](https://polytechnique.cm), Master of Engineering in Computer Science
+
+[Full Profile](./joseph-profile-turing.html)
