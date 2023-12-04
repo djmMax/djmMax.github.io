@@ -4,5 +4,10 @@
 @import "jekyll-theme-minimal";
 
 a {
-    color: #004f87;
+    color: #733333;
+}
+a:hover {
+    color: #bf3333;
+    font-weight: normal;
+    text-decoration: underline;
 }
