@@ -17,7 +17,7 @@ Focus on AI/ML/Research working on LLM, Code Generation, Symbolic reasoning with
 * DNA Sequence bonding prediction with Kernel [repo](https://github.com/djmMax/dna-bonding-prediction)
 * Audio classification with CNN [repo](https://github.com/djmMax/audio-classification)
 * Sample from a heat map experiment [repo](https://github.com/djmMax/sample-a-heatmap)
-<!-- * Satellite Image Classification -->
+* Satellite Image Classification
 
 <!--- [more details](./project-details.html) -->
 ### Research
@@ -37,8 +37,8 @@ D. Ajisafe, J. Domguia, et al. - [DiffCVGP](https://montrealrobotics.ca/diffcvgp
 
 ## Education
 
-* [AIMS AMMI](https://aimsammi.org), Master in Machine Intelligence
-* [National Advanced School of Engineering of Yaounde](https://polytechnique.cm), Master of Engineering in Computer Science
+* 2019-2021 Master of Science in Machine Intelligence _at_ [AIMS AMMI](https://aimsammi.org)
+* 2012-2017 Master of Engineering in Computer Science _at_ [Polytechnic Yaounde](https://polytechnique.cm)
 
 <!-- For more details my [full profile](./joseph-profile-turing.html) -->
 
