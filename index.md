@@ -9,7 +9,7 @@ Focus on AI/ML/Research working on LLM, Code Generation, Symbolic reasoning with
 ### I'm working on 
 
 * [Th1nker - the trained computer](https://github.com/domguia/thinker)
-* Large dataset of audio record of African Language  
+* Large dataset of audio record of low ressource African Language  
 
 ### I worked on
 
@@ -32,7 +32,7 @@ E. Oduntan, J. Domguia - Deep Learning Indaba
 D. Ajisafe, J. Domguia, et al. - [DiffCVGP](https://montrealrobotics.ca/diffcvgp/papers/)
 
 
-## Stuff I would like
+## I would like to work on
 * Brain Computer Interface eg. a brain prompted LLM base Assitant!  
 * Improve AI Resonning : via coding or math theorem proven 
 
