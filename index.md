@@ -21,13 +21,13 @@ Focus on AI/ML/Research working on LLM, Code Generation, Symbolic reasoning with
 
 <!--- [more details](./project-details.html) -->
 ### Research
-2023 [Whispering Across the Continent: Collecting and Analyzing African Culture Using Community Radios](/assets/docs/221_whispering_across_the_continent.pdf)
+2023 [Whispering Across the Continent: Collecting and Analyzing African Culture Using Community Radios](/assets/docs/221_whispering_across_the_continent.pdf)  
 J. Domguia, A. Nkama, Black in AI NeurIPS and Tiny Paper ICLR - work in progress
 
-2022 [Text Visual Question Answering on Text-VQA with Transformers](/assets/docs/Poster%20VQA_6378_poster.pdf)
+2022 [Text Visual Question Answering on Text-VQA with Transformers](/assets/docs/Poster%20VQA_6378_poster.pdf)  
 E. Oduntan, J. Domguia - Deep Learning Indaba
 
-2020 [Towards end-to-end training of proposal-based 3D human pose estimation](/assets/docs/Towards%20end-to-end%20training%20of%20proposal-based%203D.pdf)
+2020 [Towards end-to-end training of proposal-based 3D human pose estimation](/assets/docs/Towards%20end-to-end%20training%20of%20proposal-based%203D.pdf)  
 D. Ajisafe, J. Domguia, et al. - [DiffCVGP](https://montrealrobotics.ca/diffcvgp/papers/)
 
 
