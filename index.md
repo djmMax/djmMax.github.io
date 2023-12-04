@@ -1,6 +1,5 @@
 ## About me
 
-
 Passionate of Tech since nursery, believing the future will more automate via ML.
 Focus on AI/ML/Research working on LLM, Code Generation, Symbolic reasoning with tools like PyTorch, JAX, Cloud and a lot of brain compute resource :-)
 
@@ -18,7 +17,7 @@ Focus on AI/ML/Research working on LLM, Code Generation, Symbolic reasoning with
 * DNA Sequence bonding prediction with Kernel [repo](https://github.com/djmMax/dna-bonding-prediction)
 * Audio classification with CNN [repo](https://github.com/djmMax/audio-classification)
 * Sample from a heat map experiment [repo](https://github.com/djmMax/sample-a-heatmap)
-* Satellite Image Classification
+<!-- * Satellite Image Classification -->
 
 <!--- [more details](./project-details.html) -->
 ### Research
@@ -34,7 +33,7 @@ D. Ajisafe, J. Domguia, et al. - [DiffCVGP](https://montrealrobotics.ca/diffcvgp
 
 ## I would like to work on
 * Brain Computer Interface eg. a brain prompted LLM base Assitant!  
-* Improve AI Resonning : via coding or math theorem proven 
+* Improve AI resonning : via coding or math theorem proven 
 
 ## Education
 
@@ -42,3 +41,11 @@ D. Ajisafe, J. Domguia, et al. - [DiffCVGP](https://montrealrobotics.ca/diffcvgp
 * [National Advanced School of Engineering of Yaounde](https://polytechnique.cm), Master of Engineering in Computer Science
 
 <!-- For more details my [full profile](./joseph-profile-turing.html) -->
+
+
+# Big Ideas
+* [On the human machine interaction](/blog/bci.html)  
+* AI and resonning : via coding or math theorem proven 
+* On Africa tech. impact - my Entrepreunarial journey
+* My first IMO participation
+
