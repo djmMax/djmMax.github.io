@@ -44,6 +44,7 @@ D. Ajisafe, J. Domguia, et al. - [DiffCVGP](https://montrealrobotics.ca/diffcvgp
 
 
 # Big Ideas
+* [Why I'm into academic olympiads?](/blog/why-olympiad.md)
 * [On the human machine interaction](/blog/bci.html)  
 * AI and resonning : via coding or math theorem proven 
 * On Africa tech. impact - my Entrepreunarial journey
